@@ -1,1 +1,2 @@
-# intr2002-bonus
+# First repo experience
+This is my first attemp using Codespace.
